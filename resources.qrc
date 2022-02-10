@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Buttons1.png</file>
+        <file>Buttons2.png</file>
+        <file>click_pressed.mp3</file>
+        <file>click_released.mp3</file>
+    </qresource>
+</RCC>
